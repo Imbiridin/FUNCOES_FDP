@@ -1,6 +1,6 @@
-a = 10
-b = 8
-def soma():
-    resultado = sum(a,b)
+def somar(a,b):
 
-soma()
+    resultado = a + b
+    print(resultado)
+
+somar(5,3)
