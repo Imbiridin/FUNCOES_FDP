@@ -14,3 +14,4 @@ def contar_vogais(texto):
         print("Não tem vogal")
 
 contar_vogais("python")
+contar_vogais("pythoooon")
